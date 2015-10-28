@@ -1,0 +1,32 @@
+  1      dputnam   x     4185      208        D PuTnAm            /users/dputnam       /bin/bash 
+  2     agrandee   x    34004      594        AgRaNdEe        /students/agrandee       /bin/bash 
+  3      cbalton   x    32945      594         CbAlToN         /students/cbalton       /bin/bash 
+  4         cbal   x    33800      594            CbAl            /students/cbal       /bin/bash 
+  5     cchung38   x    33774      594        CcHuNg38        /students/cchung38       /bin/bash 
+  6       ichao1   x    32873      594          IcHaO1          /students/ichao1       /bin/bash 
+  7        ichao   x    34919      574           IcHaO           /students/ichao       /bin/bash 
+  8     jmart313   x    33761      594        JmArT313        /students/jmart313       /bin/bash 
+  9     krudzins   x    30640      579        KrUdZiNs        /students/krudzins       /bin/bash 
+ 10          kte   x    35162      595             KtE             /students/kte       /bin/bash 
+ 11      kteaupa   x    37484      506         KtEaUpA         /students/kteaupa       /bin/drop 
+ 12     mrodighe   x    36171      506        MrOdIgHe        /students/mrodighe       /bin/bash 
+ 13     mswarows   x    35244      595        MsWaRoWs        /students/mswarows       /bin/bash 
+ 14     nnovosel   x    31723      593        NnOvOsEl        /students/nnovosel       /bin/bash 
+ 15      wgrimes   x    32533      562         WgRiMeS         /students/wgrimes       /bin/bash 
+ 16     asiarhey   x    24532      590        AsIaRhEy        /students/asiarhey       /bin/bash 
+ 17       ofomin   x    36172      506          OfOmIn          /students/ofomin       /bin/bash 
+ 18       dwang6   x    37517      506     DrAkE,.,.,.          /students/dwang6       /bin/bash 
+ 19     hyongzhe   x    33712      594        HyOnGzHe        /students/hyongzhe       /bin/bash 
+ 20     mmarsell   x    25291      590        MmArSeLl        /students/mmarsell       /bin/bash 
+ 21     egutier2   x    20645      550        EgUtIeR2        /students/egutier2       /bin/bash 
+ 22     hjacobs2   x    24367      590        HjAcObS2        /students/hjacobs2       /bin/bash 
+ 23     bbotella   x    35486      595        BbOtElLa        /students/bbotella       /bin/bash 
+ 24     cbastian   x    36556      506        CbAsTiAn        /students/cbastian       /bin/bash 
+ 25     kcarvaj1   x    37808      506        KcArVaJ1        /students/kcarvaj1       /bin/bash 
+ 26      ngupta3   x    37459      506         NgUpTa3         /students/ngupta3       /bin/bash 
+ 27     treynol5   x    26163      590        TrEyNoL5        /students/treynol5       /bin/bash 
+ 28     lnazarov   x    20558      585        LnAzArOv        /students/lnazarov       /bin/bash 
+ 29        alevy   x    25592      565           AlEvY           /students/alevy       /bin/bash 
+ 30      egutkin   x    38198      506         EgUtKiN         /students/egutkin       /bin/bash 
+ 31       fditto   x    34456      582          FdItTo          /students/fditto       /bin/bash 
+Elapsed time: 0.0509488582611084

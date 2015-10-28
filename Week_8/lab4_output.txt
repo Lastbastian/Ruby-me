@@ -1,0 +1,491 @@
+HTML follows below std txt output
+  
+  1     dputnam     x     4185     208     D PuTnAm     /users/dputnam      /bin/bash
+
+  
+  2     agrandee     x     34004     594     AgRaNdEe     /students/agrandee      /bin/bash
+
+  
+  3     cbalton     x     32945     594     CbAlToN     /students/cbalton      /bin/bash
+
+  
+  4     cbal     x     33800     594     CbAl     /students/cbal      /bin/bash
+
+  
+  5     cchung38     x     33774     594     CcHuNg38     /students/cchung38      /bin/bash
+
+  
+  6     ichao1     x     32873     594     IcHaO1     /students/ichao1      /bin/bash
+
+  
+  7     ichao     x     34919     574     IcHaO     /students/ichao      /bin/bash
+
+  
+  8     jmart313     x     33761     594     JmArT313     /students/jmart313      /bin/bash
+
+  
+  9     krudzins     x     30640     579     KrUdZiNs     /students/krudzins      /bin/bash
+
+  
+  10     kte     x     35162     595     KtE     /students/kte      /bin/bash
+
+  
+  11     kteaupa     x     37484     506     KtEaUpA     /students/kteaupa      /bin/drop
+
+  
+  12     mrodighe     x     36171     506     MrOdIgHe     /students/mrodighe      /bin/bash
+
+  
+  13     mswarows     x     35244     595     MsWaRoWs     /students/mswarows      /bin/bash
+
+  
+  14     nnovosel     x     31723     593     NnOvOsEl     /students/nnovosel      /bin/bash
+
+  
+  15     wgrimes     x     32533     562     WgRiMeS     /students/wgrimes      /bin/bash
+
+  
+  16     asiarhey     x     24532     590     AsIaRhEy     /students/asiarhey      /bin/bash
+
+  
+  17     ofomin     x     36172     506     OfOmIn     /students/ofomin      /bin/bash
+
+  
+  18     dwang6     x     37517     506     DrAkE,.,.,.     /students/dwang6      /bin/bash
+
+  
+  19     hyongzhe     x     33712     594     HyOnGzHe     /students/hyongzhe      /bin/bash
+
+  
+  20     mmarsell     x     25291     590     MmArSeLl     /students/mmarsell      /bin/bash
+
+  
+  21     egutier2     x     20645     550     EgUtIeR2     /students/egutier2      /bin/bash
+
+  
+  22     hjacobs2     x     24367     590     HjAcObS2     /students/hjacobs2      /bin/bash
+
+  
+  23     bbotella     x     35486     595     BbOtElLa     /students/bbotella      /bin/bash
+
+  
+  24     cbastian     x     36556     506     CbAsTiAn     /students/cbastian      /bin/bash
+
+  
+  25     kcarvaj1     x     37808     506     KcArVaJ1     /students/kcarvaj1      /bin/bash
+
+  
+  26     ngupta3     x     37459     506     NgUpTa3     /students/ngupta3      /bin/bash
+
+  
+  27     treynol5     x     26163     590     TrEyNoL5     /students/treynol5      /bin/bash
+
+  
+  28     lnazarov     x     20558     585     LnAzArOv     /students/lnazarov      /bin/bash
+
+  
+  29     alevy     x     25592     565     AlEvY     /students/alevy      /bin/bash
+
+  
+  30     egutkin     x     38198     506     EgUtKiN     /students/egutkin      /bin/bash
+
+  
+  31     fditto     x     34456     582     FdItTo     /students/fditto      /bin/bash
+
+
+Elapsed time: 0.05684924125671387
+
+
+ALTERNATE HTML OUTPUT
+
+<table>
+<th>
+  <td>number</td>
+  <td>user name</td>
+  <td>password</td>
+  <td>uid</td>
+  <td>gid</td>
+  <td>gcos field</td>
+  <td>home directory</td>
+  <td>shell</td>
+</th>
+
+  
+<tr>
+  <td>1</td>
+  <td>dputnam</td>
+  <td>x</td>
+  <td>4185</td>
+  <td>208</td>
+  <td>D PuTnAm</td>
+  <td>/users/dputnam</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>2</td>
+  <td>agrandee</td>
+  <td>x</td>
+  <td>34004</td>
+  <td>594</td>
+  <td>AgRaNdEe</td>
+  <td>/students/agrandee</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>3</td>
+  <td>cbalton</td>
+  <td>x</td>
+  <td>32945</td>
+  <td>594</td>
+  <td>CbAlToN</td>
+  <td>/students/cbalton</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>4</td>
+  <td>cbal</td>
+  <td>x</td>
+  <td>33800</td>
+  <td>594</td>
+  <td>CbAl</td>
+  <td>/students/cbal</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>5</td>
+  <td>cchung38</td>
+  <td>x</td>
+  <td>33774</td>
+  <td>594</td>
+  <td>CcHuNg38</td>
+  <td>/students/cchung38</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>6</td>
+  <td>ichao1</td>
+  <td>x</td>
+  <td>32873</td>
+  <td>594</td>
+  <td>IcHaO1</td>
+  <td>/students/ichao1</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>7</td>
+  <td>ichao</td>
+  <td>x</td>
+  <td>34919</td>
+  <td>574</td>
+  <td>IcHaO</td>
+  <td>/students/ichao</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>8</td>
+  <td>jmart313</td>
+  <td>x</td>
+  <td>33761</td>
+  <td>594</td>
+  <td>JmArT313</td>
+  <td>/students/jmart313</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>9</td>
+  <td>krudzins</td>
+  <td>x</td>
+  <td>30640</td>
+  <td>579</td>
+  <td>KrUdZiNs</td>
+  <td>/students/krudzins</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>10</td>
+  <td>kte</td>
+  <td>x</td>
+  <td>35162</td>
+  <td>595</td>
+  <td>KtE</td>
+  <td>/students/kte</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>11</td>
+  <td>kteaupa</td>
+  <td>x</td>
+  <td>37484</td>
+  <td>506</td>
+  <td>KtEaUpA</td>
+  <td>/students/kteaupa</td>
+  <td>/bin/drop</td>
+</tr>
+
+  
+<tr>
+  <td>12</td>
+  <td>mrodighe</td>
+  <td>x</td>
+  <td>36171</td>
+  <td>506</td>
+  <td>MrOdIgHe</td>
+  <td>/students/mrodighe</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>13</td>
+  <td>mswarows</td>
+  <td>x</td>
+  <td>35244</td>
+  <td>595</td>
+  <td>MsWaRoWs</td>
+  <td>/students/mswarows</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>14</td>
+  <td>nnovosel</td>
+  <td>x</td>
+  <td>31723</td>
+  <td>593</td>
+  <td>NnOvOsEl</td>
+  <td>/students/nnovosel</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>15</td>
+  <td>wgrimes</td>
+  <td>x</td>
+  <td>32533</td>
+  <td>562</td>
+  <td>WgRiMeS</td>
+  <td>/students/wgrimes</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>16</td>
+  <td>asiarhey</td>
+  <td>x</td>
+  <td>24532</td>
+  <td>590</td>
+  <td>AsIaRhEy</td>
+  <td>/students/asiarhey</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>17</td>
+  <td>ofomin</td>
+  <td>x</td>
+  <td>36172</td>
+  <td>506</td>
+  <td>OfOmIn</td>
+  <td>/students/ofomin</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>18</td>
+  <td>dwang6</td>
+  <td>x</td>
+  <td>37517</td>
+  <td>506</td>
+  <td>DrAkE,.,.,.</td>
+  <td>/students/dwang6</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>19</td>
+  <td>hyongzhe</td>
+  <td>x</td>
+  <td>33712</td>
+  <td>594</td>
+  <td>HyOnGzHe</td>
+  <td>/students/hyongzhe</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>20</td>
+  <td>mmarsell</td>
+  <td>x</td>
+  <td>25291</td>
+  <td>590</td>
+  <td>MmArSeLl</td>
+  <td>/students/mmarsell</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>21</td>
+  <td>egutier2</td>
+  <td>x</td>
+  <td>20645</td>
+  <td>550</td>
+  <td>EgUtIeR2</td>
+  <td>/students/egutier2</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>22</td>
+  <td>hjacobs2</td>
+  <td>x</td>
+  <td>24367</td>
+  <td>590</td>
+  <td>HjAcObS2</td>
+  <td>/students/hjacobs2</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>23</td>
+  <td>bbotella</td>
+  <td>x</td>
+  <td>35486</td>
+  <td>595</td>
+  <td>BbOtElLa</td>
+  <td>/students/bbotella</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>24</td>
+  <td>cbastian</td>
+  <td>x</td>
+  <td>36556</td>
+  <td>506</td>
+  <td>CbAsTiAn</td>
+  <td>/students/cbastian</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>25</td>
+  <td>kcarvaj1</td>
+  <td>x</td>
+  <td>37808</td>
+  <td>506</td>
+  <td>KcArVaJ1</td>
+  <td>/students/kcarvaj1</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>26</td>
+  <td>ngupta3</td>
+  <td>x</td>
+  <td>37459</td>
+  <td>506</td>
+  <td>NgUpTa3</td>
+  <td>/students/ngupta3</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>27</td>
+  <td>treynol5</td>
+  <td>x</td>
+  <td>26163</td>
+  <td>590</td>
+  <td>TrEyNoL5</td>
+  <td>/students/treynol5</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>28</td>
+  <td>lnazarov</td>
+  <td>x</td>
+  <td>20558</td>
+  <td>585</td>
+  <td>LnAzArOv</td>
+  <td>/students/lnazarov</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>29</td>
+  <td>alevy</td>
+  <td>x</td>
+  <td>25592</td>
+  <td>565</td>
+  <td>AlEvY</td>
+  <td>/students/alevy</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>30</td>
+  <td>egutkin</td>
+  <td>x</td>
+  <td>38198</td>
+  <td>506</td>
+  <td>EgUtKiN</td>
+  <td>/students/egutkin</td>
+  <td>/bin/bash</td>
+</tr>
+
+  
+<tr>
+  <td>31</td>
+  <td>fditto</td>
+  <td>x</td>
+  <td>34456</td>
+  <td>582</td>
+  <td>FdItTo</td>
+  <td>/students/fditto</td>
+  <td>/bin/bash</td>
+</tr>
+
+
+
+<tr>
+  <td>
+    Elapsed time: 0.05833792686462402
+  </td>
+</tr>

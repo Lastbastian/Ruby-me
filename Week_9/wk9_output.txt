@@ -1,0 +1,22 @@
+Exception: wrong number of arguments (2 for 1)
+week9_ex.rb:4:in `first'<br>
+week9_ex.rb:4:in `<main>'
+Argument Error
+
+Exception: index 4 outside of array bounds: -3...3
+week9_ex.rb:5:in `fetch'<br>
+week9_ex.rb:5:in `<main>'
+Index Error
+
+Exception: undefined local variable or method `foo' for main:Object
+week9_ex.rb:6:in `<main>'
+Name error
+
+Exception: undefined method `weird_method' for "hello":String
+week9_ex.rb:7:in `<main>'
+Name error
+
+Exception: divided by 0
+week9_ex.rb:8:in `/'<br>
+week9_ex.rb:8:in `<main>'
+Cannot divide by zero

@@ -1,0 +1,19 @@
+
+Ruby :> ruby week5_ex.rb
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+false
+false
+false
+316
+60
+[["Cars", "raCs"], ["ofr", "rof", "for"], ["potatoes"], ["four"], ["Scar"], ["creams", "scream"]]

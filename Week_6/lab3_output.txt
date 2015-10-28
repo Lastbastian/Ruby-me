@@ -1,0 +1,798 @@
+ABRAHAM LINCOLN, FIRST INAUGURAL ADDRESS
+355 lines
+21008 characters
+17340 characters excluding spaces
+3639 words
+136 sentences
+39 paragraphs
+26 words per sentence (average)
+976 non-fluff words
+roughly 26 percent non-fluff words.
+Top 10 non-fluff words: ["constitution", "people", "union", "government", "states", "law", "national", "constitutional", "state", "provision"] top 10 non-fluff words.
+Ideal sentences array: ["It is seventy-two years since the first inauguration of a President\nunder our National Constitution.", "We can not remove our\nrespective sections from each other nor build an impassable wall between\nthem.", "There is no other alternative, for continuing the Government\nis acquiescence on one side or the other.", "In your hands, my dissatisfied fellow-countrymen, and not in mine, is\nthe momentous issue of civil war.", "The great body of the people abide by the dry\nlegal obligation in both cases, and a few break over in each.", "The people themselves can do this if also they choose, but the\nExecutive as such has nothing to do with it.", "Indeed, the most ample\nevidence to the contrary has all the while existed and been open to\ntheir inspection."]
+
+
+ABRAHAM LINCOLN, SECOND INAUGURAL ADDRESS
+63 lines
+3928 characters
+3225 characters excluding spaces
+705 words
+27 sentences
+4 paragraphs
+26 words per sentence (average)
+241 non-fluff words
+roughly 34 percent non-fluff words.
+Top 10 non-fluff words: ["war", "war,", "god", "years", "union", "it.", "interest", "public", "address", "war."] top 10 non-fluff words.
+Ideal sentences array: ["Then a statement somewhat in detail of a course to be pursued\nseemed fitting and proper.", "Both read the same Bible and pray to the same God, and\neach invokes His aid against the other.", "Neither party expected for the war the magnitude or the duration\nwhich it has already attained.", "Fondly do we\nhope, fervently do we pray, that this mighty scourge of war may speedily\npass away.", "Neither anticipated that the cause of the\nconflict might cease with or even before the conflict itself should\ncease.", "On the occasion corresponding to this four years ago all thoughts were\nanxiously directed to an impending civil war.", "\"Woe unto the\nworld because of offenses; for it must needs be that offenses come, but\nwoe to that man by whom the offense cometh."]
+
+
+ANDREW JACKSON, FIRST INAUGURAL ADDRESS
+118 lines
+6816 characters
+5678 characters excluding spaces
+1128 words
+26 sentences
+13 paragraphs
+43 words per sentence (average)
+413 non-fluff words
+roughly 36 percent non-fluff words.
+Top 10 non-fluff words: ["public", "government", "national", "service", "interests", "long", "federal", "rights", "power", "foreign"] top 10 non-fluff words.
+Ideal sentences array: ["In administering the laws of Congress I shall keep steadily in view the\nlimitations as well as the extent of the Executive power trusting\nthereby to discharge the functions of my office without transcending its\nauthority.", "Powerful auxiliaries to the attainment of this desirable end\nare to be found in the regulations provided by the wisdom of Congress\nfor the specific appropriation of public money and the prompt\naccountability of public officers.", "While the magnitude of their interests convinces me that no\nthanks can be adequate to the honor they have conferred, it admonishes\nme that the best return I can make is the zealous dedication of my\nhumble abilities to their service and their good.", "Considering standing armies as dangerous to free governments in time of\npeace, I shall not seek to enlarge our present establishment, nor\ndisregard that salutary lesson of political experience which teaches\nthat the military should be held subordinate to the civil power.", "A diffidence, perhaps too just, in my own qualifications will teach me\nto look with reverence to the examples of public virtue left by my\nillustrious predecessors, and with veneration to the lights that flow\nfrom the mind that founded and the mind that reformed our system.", "It will be my sincere and constant desire to observe toward the Indian\ntribes within our limits a just and liberal policy, and to give that\nhumane and considerate attention to their rights and their wants which\nis consistent with the habits of our Government and the feelings of our\npeople.", "With foreign nations it will be my study to preserve peace\nand to cultivate friendship on fair and honorable terms, and in the\nadjustment of any differences that may exist or arise to exhibit the\nforbearance becoming a powerful nation rather than the sensibility\nbelonging to a gallant people."]
+
+
+ANDREW JACKSON, SECOND INAUGURAL ADDRESS
+117 lines
+7059 characters
+5877 characters excluding spaces
+1177 words
+31 sentences
+10 paragraphs
+37 words per sentence (average)
+378 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["government", "people", "general", "states", "union", "powers", "exercise", "preservation", "union.", "united"] top 10 non-fluff words.
+Ideal sentences array: ["The event of the existing crisis\nwill be decisive in the opinion of mankind of the practicability of our\nfederal system of government.", "It shall\nbe displayed to the extent of my humble abilities in continued efforts\nso to administer the Government as to preserve their liberty and promote\ntheir happiness.", "These great objects are necessarily connected, and can only be attained\nby an enlightened exercise of the powers of each within its appropriate\nsphere in conformity with the public will constitutionally expressed.", "In proportion, therefore, as the General Government\nencroaches upon the rights of the States, in the same proportion does it\nimpair its own power and detract from its ability to fulfill the\npurposes of its creation.", "But of equal, and, indeed, of incalculable,\nimportance is the union of these States, and the sacred duty of all to\ncontribute to its preservation by a liberal support of the General\nGovernment in the exercise of its just powers.", "In the domestic policy of this Government there are two objects which\nespecially deserve the attention of the people and their\nrepresentatives, and which have been and will continue to be the\nsubjects of my increasing solicitude.", "Fellow-Citizens:\n\nThe will of the American people, expressed through their unsolicited\nsuffrages, calls me before you to pass through the solemnities\npreparatory to taking upon myself the duties of President of the United\nStates for another term."]
+
+
+BARACK OBAMA, FIRST INAUGURAL ADDRESS
+241 lines
+13371 characters
+10931 characters excluding spaces
+2400 words
+113 sentences
+36 paragraphs
+21 words per sentence (average)
+823 non-fluff words
+roughly 34 percent non-fluff words.
+Top 10 non-fluff words: ["--", "nation", "us,", "common", "time", "america", "people", "work", "women", "greater"] top 10 non-fluff words.
+Ideal sentences array: ["Nor is the question before us whether the market is a force for good or\nill.", "Yet, every so often the oath is taken amidst gathering clouds\nand raging storms.", "We are a nation of Christians and Muslims, Jews and Hindus -- and\nnon-believers.", "So let us mark this day with remembrance, of who we are and how far we\nhave traveled.", "that the city and the\ncountry, alarmed at one common danger, came forth to meet (it).", "Those\nideals still light the world, and we will not give them up for\nexpedience's sake.", "We will harness the sun and the winds and\nthe soil to fuel our cars and run our factories."]
+
+
+BARACK OBAMA, SECOND INAUGURAL ADDRESS
+220 lines
+12289 characters
+9810 characters excluding spaces
+2118 words
+90 sentences
+2 paragraphs
+23 words per sentence (average)
+706 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["--", "people,", "journey", "time", "nation", "\u0096-", "we,", "america", "complete", "together,"] top 10 non-fluff words.
+Ideal sentences array: ["The \nknowledge of their sacrifice will keep us forever vigilant against \nthose who would do us harm.", "We do not believe that in this country freedom is reserved for the \nlucky, or happiness for the few.", "They do not make us a nation of takers; \nthey free us to take the risks that make this country great.", "We, the people, still believe that enduring security and lasting peace \ndo not require perpetual war.", "Our journey is not complete until no \ncitizen is forced to wait for hours to exercise the right to vote.", "Our brave men and women in \nuniform, tempered by the flames of battle, are unmatched in skill and \ncourage.", "This generation of Americans has been tested by crises that steeled our \nresolve and proved our resilience."]
+
+
+BENJAMIN HARRISON, INAUGURAL ADDRESS
+429 lines
+26181 characters
+21759 characters excluding spaces
+4401 words
+158 sentences
+36 paragraphs
+27 words per sentence (average)
+1249 non-fluff words
+roughly 28 percent non-fluff words.
+Top 10 non-fluff words: ["people", "public", "laws", "great", "states", "duty", "constitution", "friendly", "policy", "law"] top 10 non-fluff words.
+Ideal sentences array: ["We should not cease to be hospitable to immigration, but\nwe should cease to be careless as to the character of it.", "The man in whose breast that\nfaith has been darkened is naturally the subject of dangerous and\nuncanny suggestions.", "We will fortunately be able to apply to the\nredemption of the public debt any small and unforeseen excess of\nrevenue.", "The duty to obey\nand to execute embraces the Constitution in its entirety and the whole\ncode of laws enacted under it.", "None are excluded from achieving that diversification of\npursuits among the people which brings wealth and contentment.", "If the question became in any sense or at any time sectional, it was\nonly because slavery existed in some of the States.", "Only the inefficiency of the State laws or an unfair\npartisan administration of them could suggest a departure from this\npolicy."]
+
+
+CALVIN COOLIDGE, INAUGURAL ADDRESS
+376 lines
+23950 characters
+19869 characters excluding spaces
+4057 words
+197 sentences
+24 paragraphs
+20 words per sentence (average)
+1114 non-fluff words
+roughly 27 percent non-fluff words.
+Top 10 non-fluff words: ["great", "country", "people", "peace", "america", "party", "rights", "means", "law", "tax"] top 10 non-fluff words.
+Ideal sentences array: ["But the last election showed that appeals to class and nationality had\nlittle effect.", "As one result of\nthis, our Navy ranks larger, in comparison, than it ever did before.", "We have never any wish to interfere in the political conditions of any\nother countries.", "They know that extravagance lengthens the hours\nand diminishes the rewards of their labor.", "It is\ntrue that we could, with profit, be less sectional and more national in\nour thought.", "It is not the name of the action, but the result of the\naction, which is the chief concern.", "Some of the best thought of mankind has long been seeking for a formula\nfor permanent peace."]
+
+
+DWIGHT D. EISENHOWER, FIRST INAUGURAL ADDRESS
+275 lines
+13931 characters
+11437 characters excluding spaces
+2470 words
+120 sentences
+53 paragraphs
+20 words per sentence (average)
+821 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["free", "faith", "strength", "world", "people", "common", "freedom", "hold", "work", "nations"] top 10 non-fluff words.
+Ideal sentences array: ["By their observance, an earth of peace may become not a vision but a\nfact.", "The faith we hold belongs not to us alone but to the free of all the\nworld.", "We summon all our knowledge of\nthe past and we scan all signs of the future.", "For history does not long\nentrust the care of freedom to the weak or the timid.", "It\ninspires the initiative that makes our productivity the wonder of the\nworld.", "The nature of these ties must vary with\nthe different problems of different areas.", "They are laws of spiritual strength that\ngenerate and define our material strength."]
+
+
+DWIGHT D. EISENHOWER, SECOND INAUGURAL ADDRESS
+194 lines
+9146 characters
+7469 characters excluding spaces
+1664 words
+97 sentences
+41 paragraphs
+17 words per sentence (average)
+534 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["world", "seek", "nations", "peace", "people", "time", "live", "freedom,", "free.", "mr."] top 10 non-fluff words.
+Ideal sentences array: ["The unity of all who dwell in freedom is their only\nsure defense.", "Thus across all the globe there harshly blow the winds of change.", "The designs of that power, dark in purpose, are clear in practice.", "These hopes that we have helped to inspire, we can\nhelp to fulfill.", "We cherish our friendship with all nations that are or would be free.", "Commerce\ncrowds our rivers and rails, our skies, harbors, and highways.", "Thus may the nations cease to live in trembling before\nthe menace of force."]
+
+
+FRANKLIN D. ROOSEVELT, FIRST INAUGURAL ADDRESS
+193 lines
+10892 characters
+8990 characters excluding spaces
+1883 words
+86 sentences
+26 paragraphs
+21 words per sentence (average)
+631 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["national", "people", "world", "nation", "helped", "leadership", "great", "respects", "task", "face"] top 10 non-fluff words.
+Ideal sentences array: ["Nor need\nwe shrink from honestly facing conditions in our country today.", "In such a spirit on my part and on yours we face our common\ndifficulties.", "Faced by failure of credit they have proposed only\nthe lending of more money.", "This\ngreat Nation will endure as it has endured, will revive and will\nprosper.", "In their need they have registered a\nmandate that they want direct, vigorous action.", "The money changers have fled from their high seats in the temple of our\ncivilization.", "This is preeminently the\ntime to speak the truth, the whole truth, frankly and boldly."]
+
+
+FRANKLIN D. ROOSEVELT, FOURTH INAUGURAL ADDRESS
+69 lines
+3014 characters
+2453 characters excluding spaces
+561 words
+30 sentences
+16 paragraphs
+18 words per sentence (average)
+190 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["learned", "today,", "achieve", "democracy.", "presence", "fellow", "days", "work", "peace,", "simple"] top 10 non-fluff words.
+Ideal sentences array: ["It is a test of our courage--of our resolve--of\nour wisdom--our essential democracy.", "We\nhave learned that we must live as men, not as ostriches, nor as dogs in\nthe manger.", "\"\n\nWe can gain no lasting peace if we approach it with suspicion and\nmistrust or with fear.", "We Americans of today, together with our allies, are passing through a\nperiod of supreme test.", "He has given to our country a faith which has\nbecome the hope of all peoples in an anguished world.", "We have learned the simple truth, as Emerson said, that \"The only way to\nhave a friend is to be one.", "Sometimes we will be rising toward the\nheights--then all will seem to reverse itself and start downward."]
+
+
+FRANKLIN D. ROOSEVELT, SECOND INAUGURAL ADDRESS
+203 lines
+10593 characters
+8755 characters excluding spaces
+1825 words
+97 sentences
+37 paragraphs
+18 words per sentence (average)
+603 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["government", "men", "people", "good", "purpose", "economic", "millions", "united", "progress", "power"] top 10 non-fluff words.
+Ideal sentences array: ["For \"each age is a dream that is dying, or one that is coming to birth.", "In that purpose we have been helped by achievements of mind and spirit.", "Our pledge was not merely to\ndo a patchwork job with secondhand materials.", "Our tasks\nin the last four years did not force democracy to take a holiday.", "In this process evil things formerly accepted will not be so easily\ncondoned.", "Today we invoke those same powers of government to achieve the same\nobjectives.", "Then political leadership can voice common ideals, and aid in\ntheir realization."]
+
+
+FRANKLIN D. ROOSEVELT, THIRD INAUGURAL ADDRESS
+163 lines
+7534 characters
+6180 characters excluding spaces
+1350 words
+75 sentences
+37 paragraphs
+18 words per sentence (average)
+435 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["freedom", "democracy", "people", "life", "human", "nation", "body", "day", "america", "men"] top 10 non-fluff words.
+Ideal sentences array: ["For this we muster the spirit of America, and the faith of America.", "The coordinate branches of the\nGovernment continue freely to function.", "And yet we all understand what it is--the spirit--the faith of America.", "The life of a nation is the fullness\nof the measure of its will to live.", "Without the body and the mind, as all men know, the Nation could not\nlive.", "The life of a man is three-score years and\nten: a little more, a little less.", "As Americans, we\ngo forward, in the service of our country, by the will of God."]
+
+
+FRANKLIN PIERCE, INAUGURAL ADDRESS
+310 lines
+20074 characters
+16729 characters excluding spaces
+3345 words
+105 sentences
+15 paragraphs
+31 words per sentence (average)
+1057 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["power", "great", "administration", "rights", "national", "public", "nation", "constitutional", "country", "government,"] top 10 non-fluff words.
+Ideal sentences array: ["Let it be impressed upon all hearts\nthat, beautiful as our fabric is, no earthly power or wisdom could ever\nreunite its broken fragments.", "The dangers of a concentration of all power in the general\ngovernment of a confederacy so vast as ours are too obvious to be\ndisregarded.", "We can desire\nnothing in regard to them so much as to see them consolidate their\nstrength and pursue the paths of prosperity and happiness.", "With these views firmly and honestly carried out, we have a right to\nexpect, and shall under all circumstances require, prompt reciprocity.", "It must be felt that there is no national security\nbut in the nation's humble, acknowledged dependence upon God and His\noverruling providence.", "The apprehension of dangers from extended territory,\nmultiplied States, accumulated wealth, and augmented population has\nproved to be unfounded.", "It was not\na presumptuous assurance, but a calm faith, springing from a clear view\nof the sources of power in a government constituted like ours."]
+
+
+GEORGE BUSH, INAUGURAL ADDRESS
+221 lines
+12506 characters
+10167 characters excluding spaces
+2337 words
+148 sentences
+29 paragraphs
+15 words per sentence (average)
+701 non-fluff words
+roughly 29 percent non-fluff words.
+Top 10 non-fluff words: ["free", "great", "world", "mr.", "nation", "work", "part", "things,", "good", "america"] top 10 non-fluff words.
+Ideal sentences array: ["We have more\nwill than wallet; but will is what we need.", "God bless you and God bless the United States of America.", "That we were more driven to\nsucceed than anyone around us?", "Assistance can be shown here, and\nwill be long remembered.", "I do not\nmistrust the future; I do not fear what is ahead.", "And so, there is much to do; and tomorrow the work begins.", "For\nthis is the thing: This is the age of the offered hand."]
+
+
+GEORGE W. BUSH, FIRST INAUGURAL ADDRESS
+204 lines
+9067 characters
+7380 characters excluding spaces
+1594 words
+98 sentences
+50 paragraphs
+16 words per sentence (average)
+529 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["story", "common", "citizens,", "nation", "country", "*", "america,", "best,", "time", "live"] top 10 non-fluff words.
+Ideal sentences array: ["\"\n\nMuch time has passed since Jefferson arrived for his inauguration.", "If our country does not\nlead the cause of freedom, it will not be led.", "And this commitment, if we keep it, is a way to\nshared accomplishment.", "Americans are called to enact this promise in our lives and in our laws.", "Do you not think an angel rides in\nthe whirlwind and directs this storm?", "It is the determined choice of trust over cynicism, of\ncommunity over chaos.", "We will build our defenses beyond challenge, lest weakness invite\nchallenge."]
+
+
+GEORGE W. BUSH, SECOND INAUGURAL ADDRESS
+218 lines
+11948 characters
+9858 characters excluding spaces
+2078 words
+106 sentences
+33 paragraphs
+19 words per sentence (average)
+682 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["freedom", "america's", "liberty", "america", "freedom,", "americans", "history", "free", "human", "work"] top 10 non-fluff words.
+Ideal sentences array: ["The best hope for peace in our world is the expansion of\nfreedom in all the world.", "From the viewpoint\nof centuries, the questions that come to us are narrowed and few.", "Not because we consider ourselves a\nchosen nation; God moves and chooses as He wills.", "Now it is the urgent requirement of our\nnation's security, and the calling of our time.", "For a half century, America\ndefended our own freedom by standing watch on distant borders.", "Our nation relies on men and women\nwho look after a neighbor and surround the lost with love.", "The\nconcerted effort of free nations to promote democracy is a prelude to\nour enemies' defeat."]
+
+
+﻿GEORGE WASHINGTON, FIRST INAUGURAL ADDRESS
+133 lines
+8619 characters
+7183 characters excluding spaces
+1431 words
+24 sentences
+7 paragraphs
+59 words per sentence (average)
+496 non-fluff words
+roughly 34 percent non-fluff words.
+Top 10 non-fluff words: ["government", "public", "me,", "present", "duty", "united", "people", "nature", "great", "country"] top 10 non-fluff words.
+Ideal sentences array: ["In tendering this homage to the Great Author of\nevery public and private good, I assure myself that it expresses your\nsentiments not less than my own, nor those of my fellow-citizens at\nlarge less than either.", "When I was first honored\nwith a call into the service of my country, then on the eve of an\narduous struggle for its liberties, the light in which I contemplated my\nduty required that I should renounce every pecuniary compensation.", "Fellow-Citizens of the Senate and of the House of Representatives:\n\nAmong the vicissitudes incident to life no event could have filled me\nwith greater anxieties than that of which the notification was\ntransmitted by your order, and received on the 14th day of the present\nmonth.", "\" The circumstances under which I\nnow meet you will acquit me from entering into that subject further than\nto refer to the great constitutional charter under which you are\nassembled, and which, in defining your powers, designates the objects to\nwhich your attention is to be given.", "It will be more consistent with\nthose circumstances, and far more congenial with the feelings which\nactuate me, to substitute, in place of a recommendation of particular\nmeasures, the tribute that is due to the talents, the rectitude, and the\npatriotism which adorn the characters selected to devise and adopt them.", "Besides the ordinary objects submitted to your care, it will remain with\nyour judgment to decide how far an exercise of the occasional power\ndelegated by the fifth article of the Constitution is rendered expedient\nat the present juncture by the nature of objections which have been\nurged against the system, or by the degree of inquietude which has given\nbirth to them.", "On the other\nhand, the magnitude and difficulty of the trust to which the voice of my\ncountry called me, being sufficient to awaken in the wisest and most\nexperienced of her citizens a distrustful scrutiny into his\nqualifications, could not but overwhelm with despondence one who\n(inheriting inferior endowments from nature and unpracticed in the\nduties of civil administration) ought to be peculiarly conscious of his\nown deficiencies."]
+
+
+GEORGE WASHINGTON, SECOND INAUGURAL ADDRESS
+17 lines
+791 characters
+652 characters excluding spaces
+135 words
+5 sentences
+3 paragraphs
+27 words per sentence (average)
+53 non-fluff words
+roughly 39 percent non-fluff words.
+Top 10 non-fluff words: ["oath", "official", "present", "witnesses", "upbraidings", "subject", "punishment)", "constitutional", "incurring", "(besides"] top 10 non-fluff words.
+Ideal sentences array: ["Fellow Citizens:\n\nI am again called upon by the voice of my country to execute the\nfunctions of its Chief Magistrate.", "When the occasion proper for it shall\narrive, I shall endeavor to express the high sense I entertain of this\ndistinguished honor, and of the confidence which has been reposed in me\nby the people of united America.", "This oath I am now about to\ntake, and in your presence: That if it shall be found during my\nadministration of the Government I have in any instance violated\nwillingly or knowingly the injunctions thereof, I may (besides incurring\nconstitutional punishment) be subject to the upbraidings of all who are\nnow witnesses of the present solemn ceremony."]
+
+
+GROVER CLEVELAND, FIRST INAUGURAL ADDRESS
+175 lines
+10143 characters
+8446 characters excluding spaces
+1691 words
+45 sentences
+19 paragraphs
+37 words per sentence (average)
+566 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["government", "public", "people", "interests", "constitution", "partisan", "policy", "american", "people.", "national"] top 10 non-fluff words.
+Ideal sentences array: ["Amid the din of party strife the people's choice was made, but its\nattendant circumstances have demonstrated anew the strength and safety\nof a government by the people.", "All discussion as to their fitness for the place accorded to them as\nAmerican citizens is idle and unprofitable except as it suggests the\nnecessity for their improvement.", "Care for the property of the nation and for the needs of future settlers\nrequires that the public domain should be protected from purloining\nschemes and unlawful occupation.", "In the exercise of their power and\nright of self-government they have committed to one of their\nfellow-citizens a supreme and sacred trust, and he here consecrates\nhimself to their service.", "These topics and the constant and ever-varying wants of an active and\nenterprising population may well receive the attention and the patriotic\nendeavor of all who make and execute the Federal law.", "Fellow-Citizens:\n\nIn the presence of this vast assemblage of my countrymen I am about to\nsupplement and seal by the oath which I shall take the manifestation of\nthe will of a great and free people.", "Thus is\nthe people's will impressed upon the whole framework of our civil\npolity--municipal, State, and Federal; and this is the price of our\nliberty and the inspiration of our faith in the Republic."]
+
+
+GROVER CLEVELAND, SECOND INAUGURAL ADDRESS
+217 lines
+12352 characters
+10311 characters excluding spaces
+2028 words
+59 sentences
+27 paragraphs
+34 words per sentence (average)
+701 non-fluff words
+roughly 34 percent non-fluff words.
+Top 10 non-fluff words: ["people", "government", "public", "american", "support", "national", "people,", "free", "power", "confidence"] top 10 non-fluff words.
+Ideal sentences array: ["The\nagents they have chosen to carry out their purposes are bound by their\npromises not less than by the command of their masters to devote\nthemselves unremittingly to this service.", "Fully impressed with the gravity of the duties that confront me and\nmindful of my weakness, I should be appalled if it were my lot to bear\nunaided the responsibilities which await me.", "If in lifting burdens\nfrom the daily life of our people we reduce inordinate and unequal\nadvantages too long enjoyed, this is but a necessary incident of our\nreturn to right and justice.", "In the meantime, as the\nnation's wards, they should be promptly defended against the cupidity of\ndesigning men and shielded from every influence or temptation that\nretards their advancement.", "Every thoughtful American must realize the importance of checking at its\nbeginning any tendency in public or private station to regard frugality\nand economy as virtues which we may safely outgrow.", "These aggregations and combinations\nfrequently constitute conspiracies against the interests of the people,\nand in all their phases they are unnatural and opposed to our American\nsense of fairness.", "To secure the fitness and\ncompetency of appointees to office and remove from political action the\ndemoralizing madness for spoils, civil-service reform has found a place\nin our public policy and laws."]
+
+
+HARRY S. TRUMAN, INAUGURAL ADDRESS
+303 lines
+13665 characters
+11330 characters excluding spaces
+2284 words
+119 sentences
+71 paragraphs
+19 words per sentence (average)
+692 non-fluff words
+roughly 30 percent non-fluff words.
+Top 10 non-fluff words: ["nations", "world", "free", "united", "freedom", "democracy", "people", "peoples", "countries", "security"] top 10 non-fluff words.
+Ideal sentences array: ["In performing the duties of my office, I need the help and prayers of\nevery one of you.", "These differences between communism and democracy do not concern the\nUnited States alone.", "We are aided by all who desire self-government and a voice in deciding\ntheir own affairs.", "But I say to all men, what we have achieved in liberty, we will surpass\nin greater liberty.", "Democracy holds that free nations can settle differences justly and\nmaintain lasting peace.", "We have consistently advocated and relied upon\npeaceful settlement of disputes among nations.", "The American people stand firm in the faith which has inspired this\nNation from the beginning."]
+
+
+HERBERT HOOVER, INAUGURAL ADDRESS
+405 lines
+22956 characters
+19162 characters excluding spaces
+3766 words
+165 sentences
+48 paragraphs
+22 words per sentence (average)
+1000 non-fluff words
+roughly 26 percent non-fluff words.
+Top 10 non-fluff words: ["government", "public", "justice", "nation", "federal", "enforcement", "peace", "progress", "laws", "world."] top 10 non-fluff words.
+Ideal sentences array: ["No one can adequately reduce these\nthings of the spirit to phrases or to a catalogue of definitions.", "For wise\nguidance in this great period of recovery the Nation is deeply indebted\nto Calvin Coolidge.", "Most\nof these nations have contributed to our race, to our culture, our\nknowledge, and our progress.", "I covet for this administration a record\nof having further contributed to advance the cause of peace.", "I am not prepared to believe that this indicates any decay\nin the moral fiber of the American people.", "I shall therefore request a special\nsession of Congress for the consideration of these two questions.", "I have received unbounded hospitality and courtesy\nas their expression of friendliness to our country."]
+
+
+JAMES A. GARFIELD INAUGURAL ADDRESS
+315 lines
+17768 characters
+14755 characters excluding spaces
+2993 words
+112 sentences
+39 paragraphs
+26 words per sentence (average)
+901 non-fluff words
+roughly 30 percent non-fluff words.
+Top 10 non-fluff words: ["government", "constitution", "states", "great", "people", "authority", "power", "national", "united", "danger"] top 10 non-fluff words.
+Ideal sentences array: ["To interpret and\nto execute that will in accordance with the Constitution is the\nparamount duty of the Executive.", "So far as the latter is true, it is the only palliation\nthat can be offered for opposing the freedom of the ballot.", "The free enjoyment of equal suffrage is still in question, and a frank\nstatement of the issue may aid its solution.", "The finances of the Government shall suffer no detriment which it may be\npossible for my Administration to prevent.", "So far as\nmy authority can lawfully extend they shall enjoy the full and equal\nprotection of the Constitution and the laws.", "Congress is\nprohibited from making any law respecting an establishment of religion\nor prohibiting the free exercise thereof.", "The chief duty of the National Government in connection with the\ncurrency of the country is to coin money and declare its value."]
+
+
+JAMES BUCHANAN, INAUGURAL ADDRESS
+273 lines
+16814 characters
+13971 characters excluding spaces
+2836 words
+90 sentences
+22 paragraphs
+31 words per sentence (average)
+807 non-fluff words
+roughly 28 percent non-fluff words.
+Top 10 non-fluff words: ["states", "constitution", "great", "public", "government", "free", "territory", "congress", "people", "question"] top 10 non-fluff words.
+Ideal sentences array: ["It has alienated and estranged the people of\nthe sister States from each other, and has even seriously endangered the\nvery existence of the Union.", "I shall now proceed to take the oath prescribed by the Constitution,\nwhilst humbly invoking the blessing of Divine Providence on this great\npeople.", "Most happy will it be for the country when the public\nmind shall be diverted from this question to others of more pressing and\npractical importance.", "Whenever in our past history doubtful powers\nhave been exercised by Congress, these have never failed to produce\ninjurious and unhappy consequences.", "It may be proper that on this occasion I should make some brief remarks\nin regard to our rights and duties as a member of the great family of\nnations.", "The purity of official\nagents, whether rightfully or wrongfully, is suspected, and the\ncharacter of the government suffers in the estimation of the people.", "Acting on this principle, no nation\nwill have a right to interfere or to complain if in the progress of\nevents we shall still further extend our possessions."]
+
+
+JAMES KNOX POLK, INAUGURAL ADDRESS
+457 lines
+28709 characters
+23884 characters excluding spaces
+4815 words
+154 sentences
+31 paragraphs
+31 words per sentence (average)
+1254 non-fluff words
+roughly 26 percent non-fluff words.
+Top 10 non-fluff words: ["government", "states", "union", "united", "free", "constitution", "foreign", "revenue", "protection", "people"] top 10 non-fluff words.
+Ideal sentences array: ["Who\nshall assign limits to the achievements of free minds and free hands\nunder the protection of this glorious Union?", "None of the present States will be responsible for\nthem any more than they are for the local institutions of each other.", "Does he expect to find among the ruins of this\nUnion a happier abode for our swarming millions than they now have under\nit?", "No one of these interests can rightfully claim an advantage over the\nothers, or to be enriched by impoverishing the others.", "Whatever is good or evil in the\nlocal institutions of Texas will remain her own whether annexed to the\nUnited States or not.", "In taking \"care that the laws be faithfully executed,\" a strict\nperformance of duty will be exacted from all public officers.", "The burdens of\ngovernment should as far as practicable be distributed justly and\nequally among all classes of our population."]
+
+
+JAMES MADISON FIRST INAUGURAL ADDRESS
+112 lines
+6999 characters
+5818 characters excluding spaces
+1177 words
+22 sentences
+7 paragraphs
+53 words per sentence (average)
+428 non-fluff words
+roughly 36 percent non-fluff words.
+Top 10 non-fluff words: ["public", "peace", "states", "rights", "country", "improvements", "nations", "united", "full", "nations,"] top 10 non-fluff words.
+Ideal sentences array: ["If I do not sink\nunder the weight of this deep conviction it is because I find some\nsupport in a consciousness of the purposes and a confidence in the\nprinciples which I bring with me into this arduous service.", "The pressure of these, too, is\nthe more severely felt because they have fallen upon us at a moment when\nthe national prosperity being at a height not before attained, the\ncontrast resulting from the change has been rendered the more striking.", "How long their arbitrary edicts will be continued in spite of the\ndemonstrations that not even a pretext for them has been given by the\nUnited States, and of the fair and liberal attempt to induce a\nrevocation of them, can not be anticipated.", "It is a precious reflection that the transition from this prosperous\ncondition of our country to the scene which has for some time been\ndistressing us is not chargeable on any unwarrantable views, nor, as I\ntrust, on any involuntary errors in the public councils.", "So\ndistinguished a mark of confidence, proceeding from the deliberate and\ntranquil suffrage of a free and virtuous nation, would under any\ncircumstances have commanded my gratitude and devotion, as well as\nfilled me with an awful sense of the trust to be assumed.", "Under the benign influence of our republican institutions, and the\nmaintenance of peace with all nations whilst so many of them were\nengaged in bloody and wasteful wars, the fruits of a just policy were\nenjoyed in an unrivaled growth of our faculties and resources.", "But the source to which I look or the aids which alone can supply my\ndeficiencies is in the well-tried intelligence and virtue of my\nfellow-citizens, and in the counsels of those representing them in the\nother departments associated in the care of the national interests."]
+
+
+JAMES MADISON, SECOND INAUGURAL ADDRESS
+118 lines
+7159 characters
+5937 characters excluding spaces
+1211 words
+34 sentences
+11 paragraphs
+35 words per sentence (average)
+432 non-fluff words
+roughly 35 percent non-fluff words.
+Top 10 non-fluff words: ["war", "united", "british", "country", "spirit", "citizens", "honorable", "political", "long", "part"] top 10 non-fluff words.
+Ideal sentences array: ["It is a propitious consideration that an unavoidable\nwar should have found this seasonable facility for the contributions\nrequired to support it.", "Still more precise\nadvances were repeated, and have been received in a spirit forbidding\nevery reliance not placed on the military resources of the nation.", "To render the justice of the war on our part the more conspicuous, the\nreluctance to commence it was followed by the earliest and strongest\nmanifestations of a disposition to arrest its progress.", "Not to\ncontend for such a stake is to surrender our equality with other powers\non the element common to all and to violate the sacred title which every\nmember of the society has to its protection.", "On the issue of the war are staked our national sovereignty on the high\nseas and the security of an important class of citizens whose\noccupations give the proper value to those of every other class.", "To render\nthe war short and its success sure, animated and systematic exertions\nalone are necessary, and the success of our arms now may long preserve\nour country from the necessity of another resort to them.", "And now\nwe find them, in further contempt of the modes of honorable warfare,\nsupplying the place of a conquering force by attempts to disorganize our\npolitical society, to dismember our confederated Republic."]
+
+
+JAMES MONROE FIRST INAUGURAL ADDRESS
+317 lines
+19886 characters
+16497 characters excluding spaces
+3379 words
+124 sentences
+21 paragraphs
+27 words per sentence (average)
+933 non-fluff words
+roughly 27 percent non-fluff words.
+Top 10 non-fluff words: ["great", "government", "states", "united", "people", "foreign", "it.", "principles", "public", "national"] top 10 non-fluff words.
+Ideal sentences array: ["Equally\nproper is it to persevere in our efforts to extend to them the\nadvantages of civilization.", "Conscious of my own deficiency, I cannot enter on\nthese duties without great anxiety for the result.", "To the people,\ntherefore, and to the faithful and able depositaries of their trust is\nthe credit due.", "The American people have encountered\ntogether great dangers and sustained severe trials with success.", "In the course of these conflicts the United States\nreceived great injury from several of the parties.", "Who restrained from offering his vows in the mode which he\nprefers to the Divine Author of his being?", "In explaining my sentiments on this subject it may be asked, What raised\nus to the present happy state?"]
+
+
+JAMES MONROE, SECOND INAUGURAL ADDRESS
+419 lines
+26331 characters
+21841 characters excluding spaces
+4482 words
+134 sentences
+28 paragraphs
+33 words per sentence (average)
+1191 non-fluff words
+roughly 26 percent non-fluff words.
+Top 10 non-fluff words: ["great", "united", "states", "war", "force", "government", "commerce", "extent", "people,", "power"] top 10 non-fluff words.
+Ideal sentences array: ["The distinction has flattered\ntheir pride, retarded their improvement, and in many instances paved the\nway to their destruction.", "The approbation which it announces of my conduct in the preceding term\naffords me a consolation which I shall profoundly feel through life.", "Our relations with the Barbary Powers are preserved in the same state\nand by the same means that were employed when I came into this office.", "This contest was considered at an early stage by my predecessor a civil\nwar in which the parties were entitled to equal rights in our ports.", "Our\nattitude has therefore been that of neutrality between them, which has\nbeen maintained by the Government with the strictest impartiality.", "It belongs to the Executive not to suffer\nthe executions under these decisions to transcend the great purpose for\nwhich punishment is necessary.", "The laws making this provision were passed in 1815 and\n1816, and it has been since the constant effort of the Executive to\ncarry them into effect."]
+
+
+JIMMY CARTER, INAUGURAL ADDRESS
+146 lines
+6875 characters
+5626 characters excluding spaces
+1229 words
+53 sentences
+32 paragraphs
+23 words per sentence (average)
+403 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["strength", "--that", "people", "human", "world", "nation,", "nation", "american", "afford", "times"] top 10 non-fluff words.
+Ideal sentences array: ["We are a purely idealistic Nation, but let no one confuse our idealism\nwith weakness.", "I have no new dream to set\nforth today, but rather urge a fresh faith in the old dream.", "We cannot afford to do everything,\nnor can we afford to lack boldness as we meet the future.", "We\nreject the prospect of failure or mediocrity or an inferior quality of\nlife for any person.", "Your strength can compensate for\nmy weakness, and your wisdom can help to minimize my mistakes.", "So, together,\nin a spirit of individual sacrifice for the common good, we must simply\ndo our best.", "For myself and for our Nation, I want to thank my predecessor for all he\nhas done to heal our land."]
+
+
+JOHN ADAMS INAUGURAL ADDRESS
+220 lines
+13877 characters
+11545 characters excluding spaces
+2322 words
+38 sentences
+14 paragraphs
+61 words per sentence (average)
+739 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["people", "government", "foreign", "constitution", "country", "people,", "public", "states,", "great", "nations"] top 10 non-fluff words.
+Ideal sentences array: ["The zeal and ardor of the people during the Revolutionary war, supplying\nthe place of government, commanded a degree of order sufficient at least\nfor the temporary preservation of society.", "If national pride is ever\njustifiable or excusable it is when it springs, not from power or\nriches, grandeur or glory, but from conviction of national innocence,\ninformation, and benevolence.", "It may be foreign nations who govern us, and not we, the\npeople, who govern ourselves; and candid men will acknowledge that in\nsuch cases choice would have little advantage to boast of over lot or\nchance.", "In its general principles and great outlines it\nwas conformable to such a system of government as I had ever most\nesteemed, and in some States, my own native State in particular, had\ncontributed to establish.", "Measures were pursued to concert a plan to form a more perfect union,\nestablish justice, insure domestic tranquillity, provide for the common\ndefense, promote the general welfare, and secure the blessings of\nliberty.", "Can\nauthority be more amiable and respectable when it descends from\naccidents or institutions established in remote antiquity than when it\nsprings fresh from the hearts and judgments of an honest and enlightened\npeople?", "If\nthat solitary suffrage can be obtained by foreign nations by flattery or\nmenaces, by fraud or violence, by terror, intrigue, or venality, the\nGovernment may not be the choice of the American people, but of foreign\nnations."]
+
+
+JOHN F. KENNEDY, INAUGURAL ADDRESS
+150 lines
+7566 characters
+6200 characters excluding spaces
+1368 words
+58 sentences
+27 paragraphs
+23 words per sentence (average)
+465 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["sides", "pledge", "call", "fellow", "president", "power", "peace,", "world", "today", "final"] top 10 non-fluff words.
+Ideal sentences array: ["If a free society cannot help the many who are poor, it\ncannot save the few who are rich.", "And let every other power know that this Hemisphere intends to\nremain the master of its own house.", "Let both sides explore what problems unite us instead of belaboring\nthose problems which divide us.", "I do not believe\nthat any of us would exchange places with any other people or any other\ngeneration.", "Divided, there is little we\ncan do--for we dare not meet a powerful challenge at odds and split\nasunder.", "Let both sides unite to heed in all corners of the earth the command of\nIsaiah--to \"undo the heavy burdens.", "In your hands, my fellow citizens, more than in mine, will rest the\nfinal success or failure of our course."]
+
+
+JOHN QUINCY ADAMS, INAUGURAL ADDRESS
+268 lines
+17735 characters
+14817 characters excluding spaces
+2917 words
+77 sentences
+10 paragraphs
+37 words per sentence (average)
+897 non-fluff words
+roughly 30 percent non-fluff words.
+Top 10 non-fluff words: ["government", "union", "great", "rights", "public", "general", "peace", "foreign", "people", "equal"] top 10 non-fluff words.
+Ideal sentences array: ["Whatsoever\ndirectly involves the rights and interests of the federative fraternity\nor of foreign powers is of the resort of this General Government.", "The collisions of party spirit which originate in speculative opinions\nor in different views of administrative policy are in their nature\ntransitory.", "The forest has\nfallen by the ax of our woodsmen; the soil has been made to teem by the\ntillage of our farmers; our commerce has whitened every ocean.", "You have heard the exposition of the\nprinciples which will direct me in the fulfillment of the high and\nsolemn trust imposed upon me in this station.", "I can not but hope that by the same process of friendly, patient, and\npersevering deliberation all constitutional objections will ultimately\nbe removed.", "It has passed\naway in a period of profound peace, how much to the satisfaction of our\ncountry and to the honor of our country's name is known to you all.", "Ten years\nof peace, at home and abroad, have assuaged the animosities of political\ncontention and blended into harmony the most discordant elements of\npublic opinion."]
+
+
+LYNDON BAINES JOHNSON, INAUGURAL ADDRESS
+177 lines
+8182 characters
+6663 characters excluding spaces
+1496 words
+94 sentences
+39 paragraphs
+15 words per sentence (average)
+454 non-fluff words
+roughly 30 percent non-fluff words.
+Top 10 non-fluff words: ["change", "world", "american", "nation", "man", "liberty", "justice", "covenant", "seek", "people"] top 10 non-fluff words.
+Ideal sentences array: ["This is the majesty and the meaning of this moment.", "Change has brought new meaning to that old mission.", "It is the uncrossed desert and\nthe unclimbed ridge.", "Without\nthis, we shall become a nation of strangers.", "We can never again\nstand aside, prideful in isolation.", "We welcome it--and we will bend it to the hopes\nof man.", "In a land rich in harvest, children just must not go hungry."]
+
+
+MARTIN VAN BUREN, INAUGURAL ADDRESS
+366 lines
+23408 characters
+19561 characters excluding spaces
+3846 words
+98 sentences
+20 paragraphs
+39 words per sentence (average)
+1209 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["people", "institutions", "government", "country", "experience", "present", "spirit", "power", "principles", "opinions"] top 10 non-fluff words.
+Ideal sentences array: ["The last, perhaps the greatest, of the prominent sources of discord and\ndisaster supposed to lurk in our political condition was the institution\nof domestic slavery.", "Most carefully were all these circumstances weighed, and the\nfoundations of the new Government laid upon principles of reciprocal\nconcession and equitable compromise.", "Beyond that I only look to the gracious protection of the\nDivine Being whose strengthening support I humbly solicit, and whom I\nfervently pray to look down upon us all.", "Half a century,\nteeming with extraordinary events, and elsewhere producing astonishing\nresults, has passed along, but on our institutions it has left no\ninjurious mark.", "In justly balancing the powers of the Federal and State authorities\ndifficulties nearly insurmountable arose at the outset and subsequent\ncollisions were deemed inevitable.", "To enter on this occasion into a further or more minute exposition of my\nviews on the various questions of domestic policy would be as obtrusive\nas it is probably unexpected.", "In imitating their example I tread in the footsteps of\nillustrious men, whose superiors it is our happiness to believe are not\nfound on the executive calendar of any country."]
+
+
+RICHARD MILHOUS NIXON, FIRST INAUGURAL ADDRESS
+275 lines
+11589 characters
+9408 characters excluding spaces
+2131 words
+106 sentences
+77 paragraphs
+20 words per sentence (average)
+674 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["people", "peace", "world", "earth", "voices", "great", "today", "celebrate", "life", "simple"] top 10 non-fluff words.
+Ideal sentences array: ["The greatest honor history can bestow is the title of peacemaker.", "But we are approaching the limits of what government alone can do.", "We have made enormous strides in science and industry and agriculture.", "The second third of this century has been a time of proud achievement.", "After a period of confrontation, we are entering an era of negotiation.", "Our destiny offers, not the cup of despair, but the chalice of\nopportunity.", "In the\norderly transfer of power, we celebrate the unity that keeps us free."]
+
+
+RICHARD MILHOUS NIXON, SECOND INAUGURAL ADDRESS
+218 lines
+9960 characters
+8123 characters excluding spaces
+1819 words
+73 sentences
+51 paragraphs
+24 words per sentence (average)
+440 non-fluff words
+roughly 24 percent non-fluff words.
+Top 10 non-fluff words: ["peace", "america's", "world.", "america", "world", "government", "policies", "great", "role", "peace."] top 10 non-fluff words.
+Ideal sentences array: ["As I stand in this place, so hallowed by history, I think of others who\nhave stood here before me.", "Together with the rest of the world, let us resolve to move forward from\nthe beginnings we have made.", "And I\npledge to you that where this Government should act, we will act boldly\nand we will lead boldly.", "At every turn, we have been beset by those who find everything wrong\nwith America and little that is right.", "In our own lives, let each of us ask--not just what will government do\nfor me, but what can I do for myself?", "In the challenges we face together, let each of us ask--not just how can\ngovernment help, but how can I help?", "We have lived too long with\nthe consequences of attempting to gather all power and responsibility in\nWashington."]
+
+
+RONALD REAGAN, FIRST INAUGURAL ADDRESS
+251 lines
+13732 characters
+11270 characters excluding spaces
+2448 words
+136 sentences
+39 paragraphs
+18 words per sentence (average)
+796 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["government", "time", "people.", "called", "national", "america", "heroes", "man", "great", "special"] top 10 non-fluff words.
+Ideal sentences array: ["They\nwill not go away in days, weeks, or months, but they will go away.", "We are a nation under God,\nand I believe God intended for us to be free.", "Our reluctance for\nconflict should not be misjudged as a failure of will.", "But great as our tax burden is, it has not kept pace with public\nspending.", "We are not, as some would have us believe, doomed to an\ninevitable decline.", "You meet heroes across a counter--and they are on both\nsides of that counter.", "Each one of those markers is a monument to the kinds of hero I spoke of\nearlier."]
+
+
+RONALD REAGAN, SECOND INAUGURAL ADDRESS
+272 lines
+14547 characters
+11951 characters excluding spaces
+2586 words
+129 sentences
+43 paragraphs
+20 words per sentence (average)
+832 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["world", "people", "freedom", "government", "human", "time", "history", "american", "national", "god"] top 10 non-fluff words.
+Ideal sentences array: ["We strive for peace and security, heartened by the changes all around\nus.", "And as we\ncontinue our journey, we think of those who traveled before us.", "Freedom is one of the deepest and\nnoblest aspirations of the human spirit.", "Human freedom is on the march, and nowhere\nmore so than our own hemisphere.", "We are not just\ndiscussing limits on a further increase of nuclear weapons.", "When I took this oath four years ago, I did so in a time of economic\nstress.", "America must remain freedom's staunchest friend, for freedom is our best\nally."]
+
+
+RUTHERFORD B. HAYES, INAUGURAL ADDRESS
+256 lines
+14927 characters
+12427 characters excluding spaces
+2493 words
+60 sentences
+28 paragraphs
+41 words per sentence (average)
+747 non-fluff words
+roughly 29 percent non-fluff words.
+Top 10 non-fluff words: ["country", "government", "public", "political", "states", "great", "united", "party", "country,", "interests"] top 10 non-fluff words.
+Ideal sentences array: ["But at the basis of all prosperity, for that as well as for every other\npart of the country, lies the improvement of the intellectual and moral\ncondition of the people.", "The immeasurable benefits\nwhich will surely follow, sooner or later, the hearty and generous\nacceptance of the legitimate results of that revolution have not yet\nbeen realized.", "With respect to the financial condition of the country, I shall not\nattempt an extended history of the embarrassment and prostration which\nwe have suffered during the past three years.", "To this end, liberal and permanent provision should be made\nfor the support of free schools by the State governments, and, if need\nbe, supplemented by legitimate aid from national authority.", "It must be regarded as the\nexpression of the united voice and will of the whole country upon this\nsubject, and both political parties are virtually pledged to give it\ntheir unreserved support.", "It must be a government\nwhich submits loyally and heartily to the Constitution and the laws--the\nlaws of the nation and the laws of the States themselves--accepting and\nobeying faithfully the whole Constitution as it is.", "Fellow-Citizens:\n\nWe have assembled to repeat the public ceremonial, begun by Washington,\nobserved by all my predecessors, and now a time-honored custom, which\nmarks the commencement of a new term of the Presidential office."]
+
+
+THEODORE ROOSEVELT, INAUGURAL ADDRESS
+86 lines
+5571 characters
+4583 characters excluding spaces
+991 words
+34 sentences
+4 paragraphs
+29 words per sentence (average)
+298 non-fluff words
+roughly 30 percent non-fluff words.
+Top 10 non-fluff words: ["people", "problems", "great", "life", "power", "men", "world", "spirit", "tasks", "conditions"] top 10 non-fluff words.
+Ideal sentences array: ["Toward all other nations,\nlarge and small, our attitude must be one of cordial and sincere\nfriendship.", "While ever careful to\nrefrain from wrongdoing others, we must be no less insistent that we are\nnot wronged ourselves.", "But justice and generosity in a nation, as in an individual, count most\nwhen shown not by the weak but by the strong.", "Our relations with the other powers of the world are important; but\nstill more important are our relations among ourselves.", "Upon the success of\nour experiment much depends, not only as regards our own welfare, but as\nregards the welfare of mankind.", "We\nin our turn have an assured confidence that we shall be able to leave\nthis heritage unwasted and enlarged to our children and our children's\nchildren.", "We are the heirs of the ages, and yet we have had to pay few of the\npenalties which in old countries are exacted by the dead hand of a\nbygone civilization."]
+
+
+THOMAS JEFFERSON FIRST INAUGURAL ADDRESS
+157 lines
+10128 characters
+8403 characters excluding spaces
+1732 words
+42 sentences
+7 paragraphs
+41 words per sentence (average)
+590 non-fluff words
+roughly 34 percent non-fluff words.
+Top 10 non-fluff words: ["government", "then,", "confidence", "equal", "good", "opinion", "public", "government,", "freedom", "fellow-citizens,"] top 10 non-fluff words.
+Ideal sentences array: ["This is the\nsum of good government, and this is necessary to close the circle of our\nfelicities.", "When right, I shall often be\nthought wrong by those whose positions will not command a view of the\nwhole ground.", "I will\ncompress them within the narrowest compass they will bear, stating the\ngeneral principle, but not all its limitations.", "Let us restore to social intercourse that\nharmony and affection without which liberty and even life itself are but\ndreary things.", "These principles form the bright constellation\nwhich has gone before us and guided our steps through an age of\nrevolution and reformation.", "Let us, then, with courage and confidence pursue our own Federal and\nRepublican principles, our attachment to union and representative\ngovernment.", "And may\nthat Infinite Power which rules the destinies of the universe lead our\ncouncils to what is best, and give them a favorable issue for your peace\nand prosperity."]
+
+
+THOMAS JEFFERSON SECOND INAUGURAL ADDRESS
+208 lines
+12908 characters
+10735 characters excluding spaces
+2168 words
+46 sentences
+15 paragraphs
+47 words per sentence (average)
+699 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["public", "time", "false", "them,", "state", "fellow-citizens", "duty", "constitution", "foreign", "fellow-citizens,"] top 10 non-fluff words.
+Ideal sentences array: ["I know that the acquisition of Louisiana had been disapproved by\nsome from a candid apprehension that the enlargement of our territory\nwould endanger its union.", "These abuses of an\ninstitution so important to freedom and science are deeply to be\nregretted, inasmuch as they tend to lessen its usefulness and to sap its\nsafety.", "I shall need, therefore, all the indulgence\nwhich I have heretofore experienced from my constituents; the want of it\nwill certainly not lessen with increasing years.", "Contemplating the union of sentiment now manifested so generally as\nauguring harmony and happiness to our future course, I offer to our\ncountry sincere congratulations.", "That is due, in the first place, to\nthe reflecting character of our citizens at large, who, by the weight of\npublic opinion, influence and strengthen the public measures.", "In the transaction of your foreign affairs we have endeavored to\ncultivate the friendship of all nations, and especially of those with\nwhich we have the most important relations.", "During this course of administration, and in order to disturb it, the\nartillery of the press has been leveled against us, charged with\nwhatsoever its licentiousness could devise or dare."]
+
+
+ULYSSES S. GRANT, FIRST INAUGURAL ADDRESS
+115 lines
+6497 characters
+5360 characters excluding spaces
+1132 words
+41 sentences
+15 paragraphs
+27 words per sentence (average)
+376 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["dollar", "country", "laws", "public", "years", "office", "debt", "now,", "determination", "twenty-five"] top 10 non-fluff words.
+Ideal sentences array: ["The proper treatment of the original occupants of this land--the Indians\none deserving of careful study.", "I know no method to secure the\nrepeal of bad or obnoxious laws so effective as their stringent\nexecution.", "If others depart from this rule in their dealings with us, we may be\ncompelled to follow their precedent.", "I bring to it a conscious\ndesire and determination to fill it to the best of my ability to the\nsatisfaction of the people.", "How the public debt is to be paid or specie\npayments resumed is not so important as that a plan should be adopted\nand acquiesced in.", "I have taken this oath\nwithout mental reservation and with the determination to do to the best\nof my ability all that is required of me.", "Whilst the question of specie payments is in\nabeyance the prudent business man is careful about contracting debts\npayable in the distant future."]
+
+
+ULYSSES S. GRANT, SECOND INAUGURAL ADDRESS
+136 lines
+7730 characters
+6377 characters excluding spaces
+1341 words
+44 sentences
+17 paragraphs
+30 words per sentence (average)
+422 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["people", "great", "support", "executive", "subject", "good", "proposition", "states", "country", "santo"] top 10 non-fluff words.
+Ideal sentences array: ["Fellow-Citizens:\n\nUnder Providence I have been called a second time to act as Executive\nover this great nation.", "It has been, and is, my earnest desire to correct abuses that have grown\nup in the civil service of the country.", "It was not a\nquestion of my seeking, but was a proposition from the people of Santo\nDomingo, and which I entertained.", "To secure this reformation rules\nregulating methods of appointment and promotions were established and\nhave been tried.", "My best efforts will be given in the same\ndirection in the future, aided, I trust, by my four years' experience in\nthe office.", "In the first year of the past Administration the proposition came up for\nthe admission of Santo Domingo as a Territory of the Union.", "I\nperformed a conscientious duty, without asking promotion or command, and\nwithout a revengeful feeling toward any section or individual."]
+
+
+WARREN G. HARDING, INAUGURAL ADDRESS
+342 lines
+20294 characters
+16934 characters excluding spaces
+3346 words
+149 sentences
+34 paragraphs
+22 words per sentence (average)
+1101 non-fluff words
+roughly 32 percent non-fluff words.
+Top 10 non-fluff words: ["world", "war", "america", "government", "american", "civilization", "national", "great", "concern", "making"] top 10 non-fluff words.
+Ideal sentences array: ["We sense the call\nof the human heart for fellowship, fraternity, and cooperation.", "Surely there must have been\nGod's intent in the making of this new-world Republic.", "One cannot stand in this presence and be unmindful of the tremendous\nresponsibility.", "There was ample\ndiscussion, and there is a public mandate in manifest understanding.", "Today, better than ever before, we know the aspirations of humankind,\nand share them.", "The\nearth is thirsting for the cup of good will, understanding is its\nfountain source.", "A regret for the mistakes of yesterday must not, however, blind us to\nthe tasks of today."]
+
+
+WILLIAM HENRY HARRISON, INAUGURAL ADDRESS
+751 lines
+49703 characters
+41252 characters excluding spaces
+8469 words
+219 sentences
+25 paragraphs
+38 words per sentence (average)
+1895 non-fluff words
+roughly 22 percent non-fluff words.
+Top 10 non-fluff words: ["power", "constitution", "people", "government", "executive", "great", "spirit", "state", "states", "character"] top 10 non-fluff words.
+Ideal sentences array: ["I have determined never to remove a Secretary\nof the Treasury without communicating all the circumstances attending\nsuch removal to both Houses of Congress.", "To assist or control Congress, then, in its\nordinary legislation could not, I conceive, have been the motive for\nconferring the veto power on the President.", "It may be said, indeed, that the Constitution has given to the Executive\nthe power to annul the acts of the legislative body by refusing to them\nhis assent.", "Fellow-citizens, being fully invested with that high office to which the\npartiality of my countrymen has called me, I now take an affectionate\nleave of you.", "Being\nin the latter condition when the Constitution was formed, no words used\nin that instrument could have been intended to deprive them of that\ncharacter.", "It\nwas the beautiful remark of a distinguished English writer that \"in the\nRoman senate Octavius had a party and Anthony a party, but the\nCommonwealth had none.", "The negative upon the acts of the legislative by the executive\nauthority, and that in the hands of one individual, would seem to be an\nincongruity in our system."]
+
+
+WILLIAM HOWARD TAFT, INAUGURAL ADDRESS
+526 lines
+32166 characters
+26694 characters excluding spaces
+5442 words
+161 sentences
+44 paragraphs
+33 words per sentence (average)
+1359 non-fluff words
+roughly 24 percent non-fluff words.
+Top 10 non-fluff words: ["business", "government", "proper", "tariff", "policy", "trade", "congress", "race", "interstate", "hope"] top 10 non-fluff words.
+Ideal sentences array: ["Such a proposition is at variance with the American instinct,\nand will find no support, in my judgment, when submitted to the American\npeople.", "It will\nfurnish absolute security which makes the proposed scheme of government\nguaranty of deposits so alluring, without its pernicious results.", "The office of an inaugural address is to give a summary outline of the\nmain policies of the new administration, so far as they can be\nanticipated.", "I have had the honor to be one of the advisers of my\ndistinguished predecessor, and, as such, to hold up his hands in the\nreforms he has initiated.", "Therefore the\nExecutive, in recognizing the negro race by appointments, must exercise\na careful discretion not thereby to do it more harm than good.", "The consideration of this question can not, however, be complete and\nfull without reference to the negro race, its progress and its present\ncondition.", "My distinguished predecessor has given much\nattention to the cause of labor, with whose struggle for better things\nhe has shown the sincerest sympathy."]
+
+
+WILLIAM JEFFERSON CLINTON, FIRST INAUGURAL ADDRESS
+157 lines
+9202 characters
+7537 characters excluding spaces
+1611 words
+88 sentences
+17 paragraphs
+18 words per sentence (average)
+547 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["world", "america", "today", "people", "change", "work", "fellow", "idea", "americans", "nation"] top 10 non-fluff words.
+Ideal sentences array: ["My fellow citizens:\n\nToday we celebrate the mystery of American renewal.", "We must provide for our nation the way a family provides for its\nchildren.", "Each\ngeneration of American's must define what it means to be an American.", "Today as an old order\npasses, the new world is more free, but less stable.", "and we\nmust do so in a world in which we must compete for every opportunity.", "Technology is almost\nmagical, and ambition for a better life is now universal.", "There is no longer a clear division between what is foreign and what is\ndomestic."]
+
+
+WILLIAM JEFFERSON CLINTON, SECOND INAUGURAL ADDRESS
+229 lines
+12246 characters
+10012 characters excluding spaces
+2171 words
+113 sentences
+35 paragraphs
+19 words per sentence (average)
+678 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["american", "nation", "century", "government", "america", "land", "time", "fellow", "people", "century."] top 10 non-fluff words.
+Ideal sentences array: ["In this new land, education will be every citizen's most prized\npossession.", "From the height of this place and the summit of this century, let us go\nforth.", "Now, for the third time, a new century is upon us, and another time to\nchoose.", "Instead, now we\nare building bonds with nations that once were our adversaries.", "The promise we sought in a new land we will find\nagain in a land of new promise.", "And\nthey torment the lives of millions in fractured nations all around the\nworld.", "We began the 19th century with a choice, to spread our nation\nfrom coast to coast."]
+
+
+WILLIAM MCKINLEY FIRST INAUGURAL ADDRESS
+366 lines
+23656 characters
+19678 characters excluding spaces
+3977 words
+131 sentences
+20 paragraphs
+30 words per sentence (average)
+1163 non-fluff words
+roughly 29 percent non-fluff words.
+Top 10 non-fluff words: ["government", "great", "congress", "public", "people", "united", "revenue", "free", "american", "legislation"] top 10 non-fluff words.
+Ideal sentences array: ["Suitably to provide against this is the\nmandate of duty--the certain and easy remedy for most of our financial\ndifficulties.", "If we\ncannot promptly attain it, we can resolutely turn our faces in that\ndirection and aid its return by friendly legislation.", "War should never be entered\nupon until every agency of peace has failed; peace is preferable to war\nin almost every contingency.", "It has been the uniform practice of each President to avoid, as far as\npossible, the convening of Congress in extraordinary session.", "The\nseveral forms of our paper money offer, in my judgment, a constant\nembarrassment to the Government and a safe balance in the Treasury.", "The importance and moral\ninfluence of the ratification of such a treaty can hardly be\noverestimated in the cause of advancing civilization.", "Our naturalization and immigration laws should be further improved to\nthe constant promotion of a safer, a better, and a higher citizenship."]
+
+
+WILLIAM MCKINLEY, SECOND INAUGURAL ADDRESS
+212 lines
+13432 characters
+11203 characters excluding spaces
+2225 words
+101 sentences
+13 paragraphs
+22 words per sentence (average)
+737 non-fluff words
+roughly 33 percent non-fluff words.
+Top 10 non-fluff words: ["people", "government", "united", "executive", "congress", "american", "public", "peace", "states", "war"] top 10 non-fluff words.
+Ideal sentences array: ["The Republic has marched on and on, and its step\nhas exalted freedom and humanity.", "My fellow-citizens, the public events of the past four years have gone\ninto history.", "It has authorized the organization of native troops as\nauxiliary to the regular force.", "Now they are sufficient for all public needs, and we\nhave a surplus instead of a deficit.", "Honesty, capacity, and industry are nowhere more indispensable than in\npublic employment.", "Force will not be needed or used\nwhen those who make war against us shall make it no more.", "Then\nour Treasury receipts were inadequate to meet the current obligations of\nthe Government."]
+
+
+WOODROW WILSON, FIRST INAUGURAL ADDRESS
+153 lines
+9566 characters
+7855 characters excluding spaces
+1712 words
+69 sentences
+11 paragraphs
+24 words per sentence (average)
+542 non-fluff words
+roughly 31 percent non-fluff words.
+Top 10 non-fluff words: ["great", "government", "life", "nation", "men", "system", "justice", "means", "women", "set"] top 10 non-fluff words.
+Ideal sentences array: ["This is not a day of triumph; it is a day of dedication.", "We have been\nrefreshed by a new insight into our own life.", "That is the\nquestion that is uppermost in our minds to-day.", "The first duty of\nlaw is to keep sound the society it serves.", "At last a vision has been vouchsafed us of our life as a whole.", "Here muster,\nnot the forces of party, but the forces of humanity.", "Our life contains every great thing, and contains it in rich abundance."]
+
+
+WOODROW WILSON, SECOND INAUGURAL ADDRESS
+146 lines
+8390 characters
+6846 characters excluding spaces
+1531 words
+60 sentences
+18 paragraphs
+25 words per sentence (average)
+418 non-fluff words
+roughly 27 percent non-fluff words.
+Top 10 non-fluff words: ["purpose", "stand", "national", "principles", "nation", "life", "wished", "counsel", "part", "great"] top 10 non-fluff words.
+Ideal sentences array: ["For myself I beg your\ntolerance, your countenance and your united aid.", "To be indifferent to it, or independent\nof it, was out of the question.", "Upon this as a platform of\npurpose and of action we can stand together.", "And yet all the while we have been conscious that we were not part of\nit.", "It speaks for itself and will be of increasing\ninfluence as the years go by.", "In that consciousness, despite many divisions, we have drawn closer\ntogether.", "Our own fortunes as a nation\nare involved whether we would have it so or not."]
+
+
+ZACHARY TAYLOR, INAUGURAL ADDRESS
+111 lines
+6605 characters
+5507 characters excluding spaces
+1091 words
+23 sentences
+10 paragraphs
+47 words per sentence (average)
+396 non-fluff words
+roughly 36 percent non-fluff words.
+Top 10 non-fluff words: ["government", "duties", "interests", "constitution,", "measures", "congress", "day", "care", "public", "object"] top 10 non-fluff words.
+Ideal sentences array: ["With such aids and an honest purpose to do whatever is\nright, I hope to execute diligently, impartially, and for the best\ninterests of the country the manifold duties devolved upon me.", "Elected by the American people to the highest office known to our laws,\nI appear here to take the oath prescribed by the Constitution, and, in\ncompliance with a time-honored custom, to address those who are now\nassembled.", "So far as it is possible to be informed, I shall make\nhonesty, capacity, and fidelity indispensable prerequisites to the\nbestowal of office, and the absence of either of these qualities shall\nbe deemed sufficient cause for removal.", "\" For the\ninterpretation of that instrument I shall look to the decisions of the\njudicial tribunals established by its authority and to the practice of\nthe Government under the earlier Presidents, who had so large a share in\nits formation.", "I\nshall look with confidence to the enlightened patriotism of that body to\nadopt such measures of conciliation as may harmonize conflicting\ninterests and tend to perpetuate that Union which should be the\nparamount object of our hopes and affections.", "As American freemen we can not but sympathize in all efforts to extend\nthe blessings of civil and political liberty, but at the same time we\nare warned by the admonitions of history and the voice of our own\nbeloved Washington to abstain from entangling alliances with foreign\nnations.", "In reference to the Army and Navy, lately employed with so much\ndistinction on active service, care shall be taken to insure the highest\ncondition of efficiency, and in furtherance of that object the military\nand naval schools, sustained by the liberality of Congress, shall\nreceive the special attention of the Executive."]
+
+
