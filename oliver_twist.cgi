@@ -8,6 +8,7 @@ title = 'Oliver Twist Script'
 content = File.read('oliver.txt')
 content_encoded = content.encode('utf-8')
 
+
 puts "Content-type: text/html"
 puts
 puts "<html>"
