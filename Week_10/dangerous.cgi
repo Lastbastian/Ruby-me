@@ -9,10 +9,9 @@ cgi = CGI.new
 
 output=''
 pi = ''
-empty_submission = nil
 
 def code_is_safe?(code)
-  code =~ /[`;*-]/ ? false : true
+  code =~ /[><"'`;*-]/ ? false : true
 end
 
 if cgi.params['pi'].empty? or cgi.params['pi'][0] == ''
@@ -26,9 +25,16 @@ else
    pi =  CGI.escapeHTML(cgi.params['pi'][0])
 
    if pi == '3.1415926535897932385'
-       output = "<h1 style='color:#0a0'>success</h1>"
+       output = "<h1 style='color:#0a0'>Success</h1>"
    else
        output = "<h3 style=\"color:#a00\">Sorry: PI to 20 digits is not #{pi}. Try again</h3>"
+   end
+   if code_is_safe?(pi)
+    output += "<h2 style='color:#0a0'>Input is safe.</h1>"
+    output += "Your input = " + pi
+   else
+    output += "<h2 style='color:#FF0000'>Input is unsafe</h3>"
+    output += "Your input = " + pi
    end
 end
 
@@ -40,21 +46,20 @@ puts <<FORM
 <head>
     <meta charset="utf-8">
     <title>Example Ruby Form-processing CGI Script</title>
-    <link rel="stylesheet" href="/~dputnam/assets/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 </head>
 <div class="container">
 <div class="row">
     <div class="col-md-8 col-md-2-offset">
-   <h2>Example Ruby Form-processing CGI Script</h2>
+   <h2>Ruby Form-processing CGI Script</h2>
 
    #{output}
     <p>
    <form action="" method="post">
       PI to 20 digits <input type="text" name="pi" value="#{pi}">
-      <input type="submit" name="submit" value='PI me!'>
+      <input type="submit" name="submit" value='Evaluate!'>
    </form>
     </p>
-    <div style="display:none">3.1415926535897932385</div>
 FORM
 
 all_names = []
