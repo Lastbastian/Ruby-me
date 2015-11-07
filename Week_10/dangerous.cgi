@@ -1,11 +1,11 @@
-#!/usr/local/bin/ruby
-# Name: Chris Bastian
-# File: dangerous.cgi
-# ASSN: Week 10 Lab
-# Desc: A script to see if input is tainted.
-require 'cgi'
+  #!/usr/local/bin/ruby
+  # Name: Chris Bastian
+  # File: dangerous.cgi
+  # ASSN: Week 10 Lab
+  # Desc: A script to see if input is tainted.
+  require 'cgi'
 
-cgi = CGI.new
+  cgi = CGI.new
 
 output=''
 pi = ''
@@ -67,11 +67,7 @@ File.readlines('names.data').reverse.each do |name|
    parts = name.split('^')
     all_names << [parts[0], parts[1]]
 end
-#puts "<table>"
-#all_names.each do |i|
-#puts "<tr><td>" + i.join('</td><td>')  + "</td></tr>"
-#end
-#puts "</table>"
+
 puts "</div></div></div>"
 
 if show_source
