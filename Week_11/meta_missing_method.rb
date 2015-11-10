@@ -11,5 +11,5 @@ class MyAwesomeClass
 end
 
 m = MyAwesomeClass.new
-m.hello.goodbye.talk 'Joe' 'Art' 'Mary'
+m.hello 'Joe' 'Art' 'Mary'
 
