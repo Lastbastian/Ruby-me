@@ -3,9 +3,9 @@
 # File: oliver_twist.cgi
 # ASSN: Week 12 Lab --- hpricot cgi script
 # Desc: Using open-uri and hpricot to capture html.
-require File.expand_path(File.dirname(__FILE__) + '/cgi_helper')
+$:.unshift File.dirname(__FILE__)
 
-# require 'cgi_helper'
+require 'cgi_helper'
 include CgiHelper
 require 'rubygems'
 require 'cgi'

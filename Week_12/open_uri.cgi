@@ -3,9 +3,12 @@
 # File: open_uri.cgi
 # ASSN: Week 12 Lab --- open-uri cgi script
 # Desc: A script to work with open-uri.
+$:.unshift File.dirname(__FILE__)
+
+require 'cgi_helper'
+include CgiHelper
 require 'cgi'
 require 'open-uri'
-# include CgiHelper
 
 title = 'Week 12 Open-URI Script'
 
