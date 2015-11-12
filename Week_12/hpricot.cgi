@@ -18,7 +18,7 @@ title = 'Week 12 hpricot cgi script'
 f = open('http://apple.com/index.html')
 html = Hpricot(f)
 h1_reference = html.search("h1").first.inner_html
-a_reference = html.search("<a>").inner_html
+a_list = html.search("a")
 
 cgi = CGI.new
 puts cgi.header
@@ -29,7 +29,17 @@ puts "<title>#{title}</title>"
 puts "</head>"
 puts "<body>"
 puts "<blockquote>"
-puts "#{h1_reference}"
-puts "#{a_reference}"
+puts "<h1>#{title}<h1>"
+puts "<h2>The Inner HTML of the first H1 element.</h2>"
+puts "<p>#{ h1_reference }</p>"
+puts "<h2>The Inner HTML of all a elements.</h2>"
+puts "<ul>"
+count = 0
+a_list.each do |element|
+  puts "<li><code>" + h(element.inner_html.force_encoding('UTF-8')) + "</code></li>"
+  count += 1
+end
+puts "</ul>"
+puts "<h3>There are a total of #{count} a-href elements on this page.</h3>"
 puts "</body>"
 puts "</html>"
