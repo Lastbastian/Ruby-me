@@ -4,6 +4,7 @@
 # ASSN: Week 12 Lab --- hpricot and resolv cgi script
 # Desc: Using hpricot and resolv to capture html.
 $:.unshift File.dirname(__FILE__)
+ENV['GEM_HOME']='/students/cbastian/mygems'
 
 require 'cgi_helper'
 include CgiHelper
