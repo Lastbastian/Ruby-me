@@ -29,14 +29,17 @@ puts "<title>#{title}</title>"
 puts "</head>"
 puts "<body>"
 puts "<blockquote>"
-puts "<h1>#{title}<h1>"
+puts "<h1>#{title}</h1>"
+puts "<h3>Use Use hpricot and and CgiHelper#h to safely print:</h3>"
+puts "• The inner html of the first H1 element on Apple.com's home page (index.html).<br>"
+puts "• The inner html of all of the A links on the Apple.com home page."
 puts "<h2>The Inner HTML of the first H1 element.</h2>"
 puts "<p>#{ h1_reference }</p>"
 puts "<h2>The Inner HTML of all a elements.</h2>"
 puts "<ul>"
 count = 0
 a_list.each do |element|
-  puts "<li><code>" + h(element.inner_html.force_encoding('UTF-8')) + "</code></li>"
+  puts "<li>" + h(element.inner_html.force_encoding('UTF-8')) + "</li>"
   count += 1
 end
 puts "</ul>"
