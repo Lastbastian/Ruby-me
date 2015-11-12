@@ -6,14 +6,15 @@
 require 'rubygems'
 require 'cgi'
 require 'open-uri'
-require 'hpricot'
+# require 'hpricot'
 
 title = 'Week 12 hpricot cgi script'
 
 f = open('http://apple.com/index.html')
+html = Hpricot(f)
 
-cgi = CGI.new
-puts cgi.header
+# cgi = CGI.new
+# puts cgi.header
 puts
 puts "<html>"
 puts "<head>"
@@ -21,7 +22,6 @@ puts "<title>#{title}</title>"
 puts "</head>"
 puts "<body>"
 puts "<blockquote>"
-puts "<h2>Open-URI</h2>"
-puts "#{f.readlines.join}"
+puts "#{doc.search("h1").first.inner.html}"
 puts "</body>"
 puts "</html>"
