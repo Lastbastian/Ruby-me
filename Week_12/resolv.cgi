@@ -1,8 +1,8 @@
 #!/usr/local/bin/ruby
 # Name: Chris Bastian
 # File: resolv.cgi
-# ASSN: Week 12 Lab --- hpricot cgi script
-# Desc: Using open-uri and hpricot to capture html.
+# ASSN: Week 12 Lab --- hpricot and resolv cgi script
+# Desc: Using hpricot and resolv to capture html.
 $:.unshift File.dirname(__FILE__)
 
 require 'cgi_helper'
@@ -11,6 +11,7 @@ require 'rubygems'
 require 'cgi'
 require 'open-uri'
 require 'hpricot'
+require 'resolv'
 
 title = 'Week 12 hpricot cgi script'
 
