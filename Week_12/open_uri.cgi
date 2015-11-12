@@ -5,7 +5,7 @@
 # Desc: A script to work with open-uri.
 require 'cgi'
 require 'open-uri'
-include CgiHelper
+# include CgiHelper
 
 title = 'Week 12 Open-URI Script'
 
