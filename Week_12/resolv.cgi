@@ -9,17 +9,22 @@ $:.unshift File.dirname(__FILE__)
 require 'rubygems'
 require 'resolv'
 require 'cgi'
+require 'cgi_helper'
+include CgiHelper
+
 cgi = CGI.new
 
 output=''
 domain_name = ''
 
 if cgi.params['domain_name'].empty? or cgi.params['domain_name'][0] == ''
-  output = "<div class='alert alert-info'>Enter a domain name to resolve to an IP address.</div>"
+  output = "Enter a domain name to resolve to an IP address."
 else
+  domain = cgi.params['domain_name'][0]
+  output = domain + " resolves to the following IP address/es:" + "<br>"
   domain_name =  CGI.escapeHTML(cgi.params['domain_name'][0])
   Resolv.each_address(domain_name) do |address|
-    output += <div>address
+    output += "• " + h(address) + "<br>"
   end
 end
 
@@ -30,9 +35,15 @@ puts <<FORM
 <head>
 
 </head>
-  <form action="" method="post">
-    <input type="text" name="domain_name" value="#{domain_name}">
-    <input type="submit" name="submit" value='Submit'>
-  </form>
-  #{output}
+  <div>
+    <form action="" method="post">
+      <input type="text" name="domain_name" value="#{domain_name}">
+      <input type="submit" name="submit" value='Submit'>
+    </form>
+  </div>
+  <div>
+    <p>
+      #{output}
+    </p>
+  </div>
 FORM

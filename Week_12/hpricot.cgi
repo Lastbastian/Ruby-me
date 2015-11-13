@@ -6,8 +6,8 @@
 $:.unshift File.dirname(__FILE__)
 ENV['GEM_HOME']='/students/cbastian/mygems'
 
-# require 'cgi_helper'
-# include CgiHelper
+require 'cgi_helper'
+include CgiHelper
 require 'rubygems'
 require 'cgi'
 require 'hpricot'
