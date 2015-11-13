@@ -1,36 +1,38 @@
 #!/usr/local/bin/ruby
 # Name: Chris Bastian
 # File: resolv.cgi
-# ASSN: Week 12 Lab --- hpricot and resolv cgi script
+# ASSN: Week 12 Lab --- resolv cgi script
 # Desc: Using hpricot and resolv to capture html.
-$:.unshift File.dirname(__FILE__)
 ENV['GEM_HOME']='/students/cbastian/mygems'
+$:.unshift File.dirname(__FILE__)
 
-require 'cgi_helper'
-include CgiHelper
 require 'rubygems'
-require 'cgi'
-require 'open-uri'
-require 'hpricot'
 require 'resolv'
-
-title = 'Week 12 hpricot cgi script'
-
-f = open('http://apple.com/index.html')
-html = Hpricot(f)
-h1_reference = html.search("h1").first.inner_html
-a_reference = html.search("<a>").inner_html
-
+require 'cgi'
 cgi = CGI.new
-puts cgi.header
+
+output=''
+domain_name = ''
+
+if cgi.params['domain_name'].empty? or cgi.params['domain_name'][0] == ''
+  output = "<div class='alert alert-info'>Enter a domain name to resolve to an IP address.</div>"
+else
+  domain_name =  CGI.escapeHTML(cgi.params['domain_name'][0])
+  Resolv.each_address(domain_name) do |address|
+    output += <div>address
+  end
+end
+
+puts 'Content-type:text/html'
 puts
-puts "<html>"
-puts "<head>"
-puts "<title>#{title}</title>"
-puts "</head>"
-puts "<body>"
-puts "<blockquote>"
-puts "#{h1_reference}"
-puts "#{a_reference}"
-puts "</body>"
-puts "</html>"
+puts <<FORM
+<!doctype html>
+<head>
+
+</head>
+  <form action="" method="post">
+    <input type="text" name="domain_name" value="#{domain_name}">
+    <input type="submit" name="submit" value='Submit'>
+  </form>
+  #{output}
+FORM

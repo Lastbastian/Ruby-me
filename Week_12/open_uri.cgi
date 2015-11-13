@@ -26,6 +26,6 @@ puts "<blockquote>"
 puts "<h1>#{title}</h1>"
 puts "<h3>Use open-uri and CgiHelper#h to:</h3>"
 puts "<p>• Read the  HTML output of my own lab2.cgi script</p>"
-puts h(f.readlines.join)
+puts "<p>" + h(f.readlines.join) + "</p>"
 puts "</body>"
 puts "</html>"
