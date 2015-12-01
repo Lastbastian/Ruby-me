@@ -1,2 +1,5 @@
-"Shape class with corrdinates: 5 x 5"
-[5, 5]
+Shape class. At location: 5 x 5
+31415.93
+84.0
+130.0
+#<Shape::Rectangle:0x007f85291854b0 @height=10, @width=13>
