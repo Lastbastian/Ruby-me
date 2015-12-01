@@ -3,7 +3,7 @@ require 'my_math'
 include MyMath
 
 class Shape
-  def initialize(x, y)
+  def initialize(x = 0, y = 0)
     @x = x
     @y = y
   end
@@ -13,54 +13,55 @@ class Shape
   end
 
   def to_s
-    self.class.to_s + "#{@x} x #{@y}"
+    self.class.to_s + " class. " + "At location: #{@x} x #{@y}"
   end
 
-  def create_shape(shape)
-    puts "Hey"
+  # def self.create_shape(type)
 
-  end
+  # end
 
   class Circle < Shape
     attr_accessor :radius
 
-    def initialize(radius, x, y)
+    def initialize
       @radius = radius
+      super(x,y)
     end
 
     def area
-      area = PI_CONST * radius**2
+      area = PI_CONST * @radius**2
     end
 
     def to_s
-      super(x,y)
+       super.to_s + ", radius #{@radius}"
     end
 
   end
 
   class Rectangle < Shape
-    attr_accessor :length, :width
+    attr_accessor :height, :width
 
-    def initialize(length, width)
-      @length = length
+    def initialize
+      @height = height
       @width = width
     end
 
     def area
-      area = length * width
+      area = height * width
     end
 
     def to_s
-      super(x,y)
+       super.to_s + ", height #{@height}, width #{@width}"
     end
   end
 
   class Triangle < Shape
     attr_accessor :height, :base
 
-    def initialize(height, base)
+    def initialize
       @height = height
       @base = base
+      super(x,y)
     end
 
     def area
@@ -68,8 +69,7 @@ class Shape
     end
 
     def to_s
-
-      super(x,y)
+      super.to_s + ", height #{@height}, base #{@base}"
     end
 
   end
@@ -78,9 +78,7 @@ end
 
 
 square = Shape.new(5,5)
-p square.to_s
-p square.location
-
-triangle = Shape.create_shape(:triangle)
-
-# s = Shape.new(1,1)
+s = Shape::Rectangle.new
+p s.inspect
+# circle = Shape.create_shape()
+# p circle.area
