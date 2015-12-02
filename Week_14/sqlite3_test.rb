@@ -54,3 +54,5 @@ user.each do |user|
     exit
    end
  end
+
+$db.execute('COMMIT')
