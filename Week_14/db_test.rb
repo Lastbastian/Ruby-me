@@ -30,7 +30,7 @@ def add_person
   gender = gets.chomp
   puts "Enter age: "
   age = gets.chomp
-  $db.execute("INSERT INTO people (name, job, gender, age) VALUES (?, ?, ?, ?)" name, job, gender, age)
+  $db.execute("INSERT INTO people (name, job, gender, age) VALUES (name, job, gender, age)")
 end
 
 def find_person
